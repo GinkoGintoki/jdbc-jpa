@@ -1,4 +1,4 @@
-# jdbc-jpa
+# Tree-jpa
 
 ## Tree
 
