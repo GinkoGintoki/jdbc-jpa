@@ -2,4 +2,4 @@
 
 ## Tree
 
-[Tree-JPA](src/main/java) - Tree jpa
+[Tree-JPA](src/main) - Tree jpa
